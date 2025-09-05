@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome
+yo my name is **Calvin Tanuri**. I code when I'm unemployed. 
 <!--
 **N3rdyCalcium/N3rdyCalcium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
