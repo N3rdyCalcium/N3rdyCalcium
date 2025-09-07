@@ -1,5 +1,5 @@
 ## Welcome
-yo my name is **Calvin Tanuri**. I code when I'm unemployed. 
+yo my name is **Calvin Tanuri**. I code when I'm unemployed. Go check my repos
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3rdyCalcium&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3rdyCalcium&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
