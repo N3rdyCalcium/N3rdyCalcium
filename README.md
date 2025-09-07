@@ -1,6 +1,7 @@
 ## Welcome
 yo my name is **Calvin Tanuri**. I code when I'm unemployed. 
-[![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3rdyCalcium)](https://github.com/anuraghazra/github-readme-stats)
+
+![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3rdyCalcium&show_icons=true&theme=chartreuse-dark)
 <!--
 **N3rdyCalcium/N3rdyCalcium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
