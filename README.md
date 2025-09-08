@@ -3,7 +3,7 @@ yo my name is **Calvin Tanuri**. I code when I'm unemployed. Go check my repos
 _(the stats say I program in JS very much but i'm actually just copy-pasting most of it)_
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3rdyCalcium&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3rdyCalcium&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3rdyCalcium&layout=compact&theme=chartreuse-dark)
 <!--
 **N3rdyCalcium/N3rdyCalcium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
