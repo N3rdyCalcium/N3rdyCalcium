@@ -12,4 +12,4 @@ _(the stats say I program in JS very much but i'm actually just copy-pasting mos
 - 💬 Ask me about Bash, Python, Basic HTML
 - 📫 How to reach me: [Socials (Linktree)](https://linktr.ee/pro70crazy)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: StackOverflow is crazy
+- ⚡ Fun fact: StackOverflow is crazy🤯🥵
