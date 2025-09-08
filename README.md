@@ -6,10 +6,10 @@ _(the stats say I program in JS very much but i'm actually just copy-pasting mos
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3rdyCalcium&layout=compact&theme=chartreuse-dark)
 
 - 🔭 I’m currently working on [Scrolling-Text](https://github.com/N3rdyCalcium/Scrolling-Text)
-- 🌱 I’m currently learning JS & Arduino
-- 👯 I’m looking to collaborate on Arduino
-- 🤔 I’m looking for help with Advanced CSS
-- 💬 Ask me about Bash, Python, Basic HTML
+- 🌱 I’m currently learning **JS & Arduino**
+- 👯 I’m looking to collaborate on **Arduino**
+- 🤔 I’m looking for help with **Advanced CSS**
+- 💬 Ask me about **Bash, Python, Basic HTML**
 - 📫 How to reach me: [Socials (Linktree)](https://linktr.ee/pro70crazy)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: StackOverflow is crazy🤯🥵
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **StackOverflow is crazy**🤯🥵
