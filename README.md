@@ -5,7 +5,7 @@ _(the stats say I program in JS very much but i'm actually just copy-pasting mos
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3rdyCalcium&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3rdyCalcium&layout=compact&theme=chartreuse-dark)
 
-- 🔭 I’m currently working on [Scrolling-Text](https://github.com/N3rdyCalcium/Scrolling-Text)
+- 🔭 I’m currently working on [my website](https://pro70crazy.wuaze.com/HTMLtest)
 - 🌱 I’m currently learning **JS & Arduino**
 - 👯 I’m looking to collaborate on **Arduino**
 - 🤔 I’m looking for help with **Advanced CSS**
